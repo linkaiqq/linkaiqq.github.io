@@ -1,4 +1,0 @@
-deploy:
-  type: git
-  repo: git@github.com:linkaiqq/linkaiqq.github.io.git
-  branch: main
