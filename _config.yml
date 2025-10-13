@@ -1,4 +1,4 @@
 deploy:
   type: git
-  repo: https://github.com/linkaiqq/linkaiqq.github.io.git
-  branch: gh-pages
+  repo: git@github.com:linkaiqq/linkaiqq.github.io.git
+  branch: main
