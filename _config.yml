@@ -1,0 +1,4 @@
+deploy:
+  type: git
+  repo: https://github.com/linkaiqq/linkaiqq.github.io.git
+  branch: gh-pages
